@@ -259,6 +259,11 @@ footer a:hover{
     padding-top: 1rem;
     z-index: 1;
   }
+  @media (max-width: 1500px){
+    .home .content{
+        margin-top: 50px;
+    }
+}
   .home .image {
     flex: 1 1 40rem;
     z-index: 1;
